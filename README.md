@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Software Engineering at Adventist University of Central Africa.
-- 💼 &nbsp; Doing internship as Full Stack Developer at Andela Rwanda.
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
